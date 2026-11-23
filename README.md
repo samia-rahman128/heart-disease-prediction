@@ -13,6 +13,8 @@ This project develops an interpretable multi-model machine learning pipeline to 
 - Syeda Samia Rahman (ID: 232-15-128)
 - Anisha Naowar Era (ID: 232-15-617)
 - Meher Niger (ID: 232-15-075)
+- Urmilla Das Dipa (ID:232-15-039)
+- Nesshat Jannat Neesha	(ID:232-15-238)
 
 ## Dataset
 - *Dataset Name:* Cardiovascular Disease dataset
